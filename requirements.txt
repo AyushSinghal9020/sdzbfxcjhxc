@@ -1,0 +1,10 @@
+streamlit 
+langchain_cohere
+langchain_openai
+cohere
+openai
+langchain_community
+langchain
+sentence-transformers
+faiss-cpu
+PyPdf2
